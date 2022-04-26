@@ -1,0 +1,6 @@
+Overview of Service Desk Utility creation 
+W4rH4mm3r
+
+Scope: Create a utility for service desk to use that generates responses and tickets. It will give options for Service Request responses as well as generic responses and openers and closers for chats
+
+Creating with a GUI to create a more user friendly and easily accessable for the service desk, using buttons and basic inputs 
